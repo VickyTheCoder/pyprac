@@ -50,4 +50,14 @@ Which of the following best depict your eductional background:
 5. Graduate
 Your Option: 5
 You are a Graduate
+
+Run 6:
+Which of the following best depict your eductional background:
+1. 10th Fail
+2. 10th Pass
+3. 12th Fail
+4. 12th Pass
+5. Graduate
+Your Option: 100
+Wrong Choice
 """
