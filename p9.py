@@ -49,5 +49,5 @@ Which of the following best depict your eductional background:
 4. 12th Pass
 5. Graduate
 Your Option: 5
-You have a Graduate
+You are a Graduate
 """
